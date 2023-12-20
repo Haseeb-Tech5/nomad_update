@@ -8,6 +8,12 @@ const Video = () => {
       <video src={Video1} autoPlay loop muted className="video" />
       <div className="video-heading-container">
         <h2>Connecting Nurses to Practices, Bridging Excellence Together</h2>
+        <button>
+          Join now
+        </button>
+      </div>
+      <div className="video-button">
+       
       </div>
     </div>
   );
